@@ -1,0 +1,17 @@
+[04-May-2013 00:32:26] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/godatwor/public_html/godatworkorgsg/protected/controllers/PagesController.php on line 21
+[04-May-2013 00:32:29] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/godatwor/public_html/godatworkorgsg/protected/controllers/PagesController.php on line 21
+[04-May-2013 00:32:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/godatwor/public_html/godatworkorgsg/protected/controllers/PagesController.php on line 21
+[04-May-2013 00:32:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/godatwor/public_html/godatworkorgsg/protected/controllers/PagesController.php on line 21
+[04-May-2013 00:32:48] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/godatwor/public_html/godatworkorgsg/protected/controllers/PagesController.php on line 21
+[09-May-2013 17:35:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 57
+[09-May-2013 17:35:46] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 57
+[09-May-2013 17:35:47] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 57
+[09-May-2013 17:35:48] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 57
+[09-May-2013 17:35:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 57
+[10-May-2013 07:00:26] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 51
+[10-May-2013 07:00:28] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 51
+[10-May-2013 07:00:29] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 51
+[06-Nov-2014 16:30:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home1/godatwor/public_html/framework/web/helpers/CHtml.php' for inclusion (include_path='.:/home1/godatwor/public_html/godatworkorgsg/protected/components:/home1/godatwor/public_html/godatworkorgsg/protected/models:/usr/lib64/php:/usr/share/pear') in /home1/godatwor/public_html/framework/YiiBase.php on line 399
+[06-Nov-2014 16:30:47] PHP Fatal error:  Class 'CInlineAction' not found in /home1/godatwor/public_html/framework/web/CController.php on line 415
+[07-Nov-2014 16:47:34] PHP Parse error:  syntax error, unexpected ',' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 84
+[07-Nov-2014 16:47:37] PHP Parse error:  syntax error, unexpected ',' in /home1/godatwor/public_html/godatworkorgsg/protected/views/layouts/main.php on line 84
