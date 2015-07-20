@@ -48,8 +48,8 @@ return array(
 		'db'=>array(
 			'connectionString' => 'mysql:host=localhost;dbname=godatwor_dbase',
 			'emulatePrepare' => true,
-			'username' => 'godatwor_user',
-			'password' => 'Francine1',
+			'username' => 'dsfsd',
+			'password' => 'sdfsdf',
 			'charset' => 'utf8',
 			//'tablePrefix' => 'sys_',
 		),
